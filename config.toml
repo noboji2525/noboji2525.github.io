@@ -60,7 +60,7 @@ googleAnalytics = ""
 
 
   [[params.navlinks]]
-  name = "post"
+  name = "Post"
   url = "posts/"
 
 
